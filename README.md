@@ -22,7 +22,6 @@
     ▪️ Other technologies:
     <img align="center" alt="sqlserver-icon" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
     <img align="center" alt="html-icon" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-     <img align="center" alt="html-icon" height="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerBI.png" />
   </div>
 </div>
 <div>
