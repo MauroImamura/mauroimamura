@@ -20,10 +20,12 @@
   </div>
    <div>
     ▪️ Other technologies:
+    <img align="center" alt="html-icon" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
     <img align="center" alt="sqlserver-icon" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
     <img align="center" alt="html-icon" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   </div>
 </div>
+<br/>
 <div>
   <hr>
 </div>
@@ -31,4 +33,5 @@
   Socials and Contact:<br/>
   <a href="https://www.linkedin.com/in/mauroimamura/" target="_blank"><img height="20" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/mauro_imamura" target="_blank"><img height="20" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://www.codewars.com/users/MauroImamura" target="_blank"><img height="20" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /></a>
 </div>
