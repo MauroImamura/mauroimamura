@@ -16,7 +16,6 @@
     ▪️ Frameworks:
     <img align="center" alt=".net-icon" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
     <img align="center" alt="rails-icon" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"/>
-    <img align="center" alt="nextjs-icon" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
   </div>
    <div>
     ▪️ Other technologies:
