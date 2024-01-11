@@ -20,8 +20,9 @@
    <div>
     ▪️ Other technologies:
     <img align="center" alt="html-icon" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-    <img align="center" alt="sqlserver-icon" height="50" filter="invert(1)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
+    <img align="center" alt="sqlserver-icon" height="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
     <img align="center" alt="html-icon" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="html-icon" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </div>
 </div>
 <br/>
@@ -30,6 +31,6 @@
 </div>
 <div align="right">
   Socials and Contact:<br/>
-  <a href="https://www.linkedin.com/in/mauroimamura/" target="_blank"><img height="20" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mauroimamura/" target="_blank"><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
   <a href="https://www.mauro_imamura.com.br" target="_blank"><img height="20" src="https://www.mauroimamura.com.br/favicon.ico"/></a>
 </div>
