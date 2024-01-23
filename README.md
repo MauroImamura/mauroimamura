@@ -2,7 +2,7 @@
 >_Here you can check some tools and technologies I have used for personal and professional projects._
 <hr>
 <div>
-  <table align="right"><tr><td valign="center" height="280px"><img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=mauroimamura&layout=compact&theme=merko /></td></tr></table>
+  <table align="right"><tr><td valign="center" height="250px"><img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=mauroimamura&layout=compact&theme=merko /></td></tr></table>
 </div>
 <div>
   <div>
