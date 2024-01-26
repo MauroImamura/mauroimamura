@@ -45,7 +45,7 @@
 </div>
 <div align="right">
   Socials and Contact:<br/>
-  <a href="https://www.linkedin.com/in/mauroimamura/" target="_blank"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+  <a href="https://www.linkedin.com/in/mauroimamura/?locale=en_US" target="_blank"><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
   <a href="https://www.mauro_imamura.com.br" target="_blank"><img height="35" src="https://www.mauroimamura.com.br/favicon.ico"/></a>
   <a href="mailto:contato@mauroimamura.com.br" target="_blank"><img height="35" src="https://cdn-icons-png.freepik.com/128/552/552486.png"/></a>
 </div>
