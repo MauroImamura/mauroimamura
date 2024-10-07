@@ -17,7 +17,6 @@
     ▪️ Frameworks:
     <img align="center" alt=".net-icon" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"/>
     <img align="center" alt="rails-icon" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"/>
-    <img align="center" alt="django-icon" height="50" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/django/django-plain-wordmark.svg"/>
     <img align="center" alt="node-icon" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
   </div>
   <br/>
@@ -25,18 +24,17 @@
     ▪️ Databases:
     <img align="center" alt="sqlite-icon" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
     <img align="center" alt="sqlserver-icon" height="40" src="https://silk.us/wp-content/uploads/2021/03/sql-server-logo-white.png"/>
-    <img align="center" alt="mysql-icon" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+    <img align="center" alt="docker-icon" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
     <img align="center" alt="mongodb-icon" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>
   </div>
   <br/>
    <div>
     ▪️ Other technologies:
-    <img align="center" alt="vs-icon" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-    <img align="center" alt="vscode-icon" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
     <img align="center" alt="html-icon" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
     <img align="center" alt="css-icon" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
     <img align="center" alt="git-icon" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="docker-icon" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+    <img align="center" alt="docker-icon" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" />
   </div>
 </div>
 <br/>
