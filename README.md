@@ -14,7 +14,14 @@
   </div>
   <br/>
   <div>
-    ▪️ Frameworks:
+    ▪️ Frontend:
+    <img align="center" alt=".net-icon" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+    <img align="center" alt="html-icon" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+    <img align="center" alt="css-icon" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  </div>
+  <br/>
+  <div>
+    ▪️ Backend:
     <img align="center" alt=".net-icon" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"/>
     <img align="center" alt="node-icon" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
     <img align="center" alt="rails-icon" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"/>
@@ -30,8 +37,6 @@
   <br/>
    <div>
     ▪️ Other technologies:
-    <img align="center" alt="html-icon" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-    <img align="center" alt="css-icon" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
     <img align="center" alt="git-icon" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="docker-icon" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
     <img align="center" alt="docker-icon" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" />
