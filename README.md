@@ -9,7 +9,7 @@
     ▪️ Languages:
     <img align="center" alt="ruby-icon" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
     <img align="center" alt="js-icon" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    <img align="center" alt="csharp-icon" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+    <img align="center" alt="csharp-icon" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"/>
   </div>
   <br/>
   <div>
